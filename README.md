@@ -1,34 +1,36 @@
-# Dataset_ACCREU_Pollination_Shocks_on_EU_Crop_Yields
-This public folder contains NUTS 3-level datasets describing projected crop yield shocks associated with changes in pollination services. The datasets provide yield shocks for 104 crops by NUTS 3 region in the EU, year and scenario, under the IIASA pollination scenarios.
+# ACCREU_Pollination_Shocks_on_European_Crop_Yields_Dataset
+This public folder contains NUTS 3-level datasets describing projected crop yields shocks associated with changes in pollination services. The datasets provide yields shocks for 104 crops by NUTS 3 region in the EU, year and scenario, under the IIASA pollination scenarios.
+
+## Citation
+
+> Campoleoni Mansi, G.A., Gerber, G., & Palazzo, A. (2026). Pollination Shocks on European Crop Yields. 
+Dataset. (Version 1.0). Zenodo. DOI. 10.5281/zenodo.23529106
 
 # Authors: 
-G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, (IIASA)
+G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, IIASA\
 
 Produced within: ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe\
 Version: 1.0 (2026)
 
 ## Summary
 
-This dataset contains projected pollination shocks on crop yield, i.e. changes in crop yields due to projected changes in pollination services. All `<SCENARIO>_<YEAR>` values are percentage changes in crop yield relative to 2020: values for 2020 are 0 and negative values are yield losses on 2020 cropland area. 
+This dataset contains projected pollination shocks on crop yields, i.e. changes in crop yields due to projected changes in pollination services in the EU. 
+All `<SCENARIO>_<YEAR>` values are percentage changes in crop yield relative to 2020: values for 2020 are 0 and negative values are yield losses on 2020 cropland area. 
 
 The dataset supports analysis of climate change impacts on crop yields through pollination services at European regional (NUTS 3) level. It was produced by the CMCC Foundation, in collaboration with IIASA, in the context of the ACCREU project.
 
-Shocks are provided for 104 crops by NUTS 3 region and year (2020–2080, 5-year steps), under the IIASA-CLIM scenarios (Dataset ACCREU D2.4 / 03_climate_only_poll_supply_metrics). 
+Shocks are provided for 104 crops by NUTS 3 region and year (2020–2080, 5-year steps), under the IIASA-CLIM pollination scenarios.
 
-The IIASA-CLIM scenarios are based on the IIASA external analysis of habitat suitability under climate and land-use scenarios from ACCREU deliverable D2.4.1 (Gerber, Palazzo et al., 2025), and in particular on Gerber (2026, Dataset ACCREU D2.4). 
-The methodology is described in the ACCREU documentation (GA No. 101081358, HORIZON-CL5-2022-D1-07-two-stage), 
-Deliverable D4.1 Section 3.3 Biodiversity impacts based on pollination services.
+The IIASA-CLIM scenarios are based on the IIASA external analysis of habitat suitability under climate and land-use scenarios from ACCREU deliverable D2.4.1 (Gerber, Palazzo et al., 2025), 
+and in particular on Gerber (2026, Dataset ACCREU D2.4). 
+The methodology for crop yields impact assesment is described in the ACCREU documentation (GA No. 101081358, HORIZON-CL5-2022-D1-07-two-stage), Deliverable D4.1 Section 3.3 "Biodiversity impacts based on pollination services".
 
-## Citation
-
-> Campoleoni Mansi, G.A., Gerber, G., & Palazzo, A. (2026). Pollination Shocks on European Crop Yield. 
-Dataset. (Version 1.0). Zenodo. https://doi.org/
 
 # Source data and documentation:
 The underlying pollination data, habitat suitability scenarios and methodology are documented in the associated 
 # ACCREU deliverables 
-> D 4.1 : Deliverable Section 3.3 Biodiversity impacts based on pollination services. ACCREU – Assessing Climate Change Risk in EUrope.
-> D 2.4 : Gerber, G., Palazzo, A., et al. (2025). ACCREU Deliverable D2.4. ACCREU – Assessing Climate Change Risk in EUrope.
+> Deliverable D 4.1, Section 3.3 Biodiversity impacts based on pollination services. ACCREU – Assessing Climate Change Risk in EUrope.
+> Deliverable D2.4. ACCREU – Assessing Climate Change Risk in EUrope. [ Gerber, G., Palazzo, A., et al. (2025) ].
 
 and in the 
 # IIASA source dataset :
