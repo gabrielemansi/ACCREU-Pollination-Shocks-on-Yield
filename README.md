@@ -40,9 +40,9 @@ under climate change (Version 1.0) [Dataset]. Zenodo.  DOI 10.5281/zenodo.227510
 
 ## Repository Contents (Metadata only)
 
-This GitHub repository hosts only the metadata (this README and the data access page). The data files reside on the IIASA Accelerator platform (see link above).
+This GitHub repository hosts only the metadata (this README and the data access page). The data files reside on Zenodo (DEI 10.5281/zenodo.23529106).
 
-## Folder Structure (on IIASA Accelerator)
+## Folder Structure
 
 ```text
 CMCC_pollination/
