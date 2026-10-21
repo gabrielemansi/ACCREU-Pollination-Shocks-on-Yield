@@ -2,7 +2,7 @@
 This public folder contains NUTS 3-level datasets describing projected crop yield shocks associated with changes in pollination services. The datasets provide yield shocks for 104 crops by NUTS 3 region in the EU, year and scenario, under the IIASA pollination scenarios.
 
 # Authors: 
-G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, IIASA\
+G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, (IIASA)
 
 Produced within: ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe\
 Version: 1.0 (2026)
