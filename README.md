@@ -4,7 +4,8 @@ This public folder contains NUTS 3-level datasets describing projected crop yiel
 ## Citation
 
 > Campoleoni Mansi, G.A., Gerber, G., & Palazzo, A. (2026). Pollination Shocks on European Crop Yields. 
-Dataset. (Version 1.0). Zenodo. DOI. 10.5281/zenodo.23529106 ( Link : https://zenodo.org/records/23529106?preview=1&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc5MjU3ODA1MCwiZXhwIjoxNzkyODg2Mzk5fQ.eyJpZCI6ImQ2ZTI0YjlhLTczNGUtNGRiMS1iYTZhLTZlZTM2YzMyMWNmZCIsImRhdGEiOnt9LCJyYW5kb20iOiI3ZDNmMTFiZWMxZmRjNzVlY2M4NGYyYmZjY2NkYTAzYiJ9.RG_UkazbWHz34W8wmMNfAyh6N6euxirUwdLbPDT-UFD4YC5TcHMqyv5On8zq9F4ZVCcoeNWe83R8-EspRnxgxw) 
+Dataset. (Version 1.0). Zenodo. DOI. 10.5281/zenodo.23529106
+> Link : https://zenodo.org/records/23529106?preview=1&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc5MjU3ODA1MCwiZXhwIjoxNzkyODg2Mzk5fQ.eyJpZCI6ImQ2ZTI0YjlhLTczNGUtNGRiMS1iYTZhLTZlZTM2YzMyMWNmZCIsImRhdGEiOnt9LCJyYW5kb20iOiI3ZDNmMTFiZWMxZmRjNzVlY2M4NGYyYmZjY2NkYTAzYiJ9.RG_UkazbWHz34W8wmMNfAyh6N6euxirUwdLbPDT-UFD4YC5TcHMqyv5On8zq9F4ZVCcoeNWe83R8-EspRnxgxw 
 
 # Authors: 
 G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, IIASA
