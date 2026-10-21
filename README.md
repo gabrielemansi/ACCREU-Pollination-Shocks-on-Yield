@@ -7,9 +7,9 @@ This public folder contains NUTS 3-level datasets describing projected crop yiel
 Dataset. (Version 1.0). Zenodo. DOI. 10.5281/zenodo.23529106
 
 # Authors: 
-G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, IIASA\
+G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, IIASA
 
-Produced within: ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe\
+Produced within: ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe
 Version: 1.0 (2026)
 
 ## Summary
@@ -109,3 +109,6 @@ G.A. Campoleoni Mansi, CMCC Foundation, [gabriele.mansi@cmcc.it](mailto:gabriele
 This work was supported by the Assessing Climate Change Risk in Europe (ACCREU) project, funded by the European Commission under the Horizon Europe programme (grant agreement No. 101081358).
 
 Project website: [ACCREU Website](https://www.accreu.eu/)
+
+
+
