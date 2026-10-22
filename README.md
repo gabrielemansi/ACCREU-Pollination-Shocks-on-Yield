@@ -8,7 +8,7 @@ Dataset. (Version 1.0). Zenodo. DOI. 10.5281/zenodo.23529106
 > Link : https://zenodo.org/records/23529106?preview=1&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc5MjU3ODA1MCwiZXhwIjoxNzkyODg2Mzk5fQ.eyJpZCI6ImQ2ZTI0YjlhLTczNGUtNGRiMS1iYTZhLTZlZTM2YzMyMWNmZCIsImRhdGEiOnt9LCJyYW5kb20iOiI3ZDNmMTFiZWMxZmRjNzVlY2M4NGYyYmZjY2NkYTAzYiJ9.RG_UkazbWHz34W8wmMNfAyh6N6euxirUwdLbPDT-UFD4YC5TcHMqyv5On8zq9F4ZVCcoeNWe83R8-EspRnxgxw 
 
 # Authors: 
-G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it); G. Gerber, A. Palazzo, IIASA
+G.A. Campoleoni Mansi, CMCC Foundation (gabriele.mansi@cmcc.it)
 
 Produced within: ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe
 Version: 1.0 (2026)
@@ -35,8 +35,13 @@ The underlying pollination data, habitat suitability scenarios and methodology a
 
 and in the 
 # IIASA source dataset :
-> Gerber, G. (2026). Dataset ACCREU D2.4: European pollinator species distribution models and pollination supply metrics 
-under climate change (Version 1.0) [Dataset]. Zenodo.  DOI 10.5281/zenodo.22751031   
+> Climate and landuse full crop pollination dataset: Gerber, G. (2026). European crop pollination supply, demand, and flow under climate and land-use change workflow and dataset (Version 1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22743969
+
+> Climate-only SDMS and pollination supply metrics: Gerber, G., & Jung, M. (2026). European pollinator species distribution models and pollination supply metrics under climate change (Version 1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22751032
+
+##  Underlying methodology and broader context:
+> Palazzo, A. , Nakhavali, A. , Gerber, G. , Arbelaez Gaviria, J., Jung, M. , Drews, M., Meuriot, O.G.M., Martin, J.S., Bacca, S., Hinkel, J., & Lincke, D. (2025). ACCREU Report: Impacts on ecosystems & biodiversity. ACCREU (Assessing Climate Change Risk in EUrope). [https://www.accreu.eu/wp-content/uploads/2026/04/ACCREU_D2.4-with-annexes_revised-April-2026.pdf]
+
 
 ## Repository Contents (Metadata only)
 
